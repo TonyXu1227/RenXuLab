@@ -130,3 +130,18 @@
     text-decoration: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.contact-section {
+    padding-top: 40px;
+    display: flex;
+}
+
+.contact-title {
+    font-size: 25px;
+    padding-left: 50px;
+    text-decoration: none;
+    color: #333333;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
