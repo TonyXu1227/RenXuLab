@@ -258,3 +258,13 @@
     color: #666666;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.bottom-text {
+    text-align: center;
+    margin: 10px;
+    font-weight: 100;
+    font-size: 12px;
+    text-decoration: none;
+    color: #666666;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
